@@ -64,10 +64,14 @@
 ---
 
 <!-- Contributions Snake -->
-## 🐍 Watch my contributions get eaten  
-<p align="center">
-  <img src="https://github.com/pawanpr527/pawanpr527/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+<div align="center" style="margin-top:20px; margin-bottom:20px;">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=pawanpr527&theme=react-dark&radius=10&area=true&hide_border=false&hide_title=false" 
+    height="280" 
+    style="box-shadow: 0 8px 24px rgba(0,0,0,0.5); border-radius: 15px;"
+    alt="Pawan's GitHub Activity Graph"  
+  />
+</div>
 
 ---
 
