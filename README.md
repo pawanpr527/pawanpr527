@@ -71,16 +71,6 @@
 
 ---
 
-<!-- Spotify Section -->
-## 🎵 Vibes While Coding  
-<p align="center">
-  <a href="https://open.spotify.com/user/31g747ibrm6tkjat4wn2e7otijdu">
-    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="450"/>
-  </a>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pawanpr527&label=Profile%20Views&color=00F7FF&style=flat-square" alt="Profile Views"/>
 </p>
