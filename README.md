@@ -36,7 +36,7 @@ I’m a **Data Science & AI enthusiast** who focuses on **understanding systems 
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack 🛠️
 
 ### 🔹 Data Science & AI
 
