@@ -82,14 +82,6 @@ I believe in building practical solutions, understanding technologies at a deepe
 
 ---
 
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pawanpr527&theme=react-dark&radius=10&area=true" height="280" />
-</p>
-
----
-
 ## Connect With Me
 
 <p align="center">
